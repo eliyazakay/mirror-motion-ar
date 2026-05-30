@@ -1,0 +1,18 @@
+# Large 3D model files
+*.glb
+*.fbx
+*.obj
+*.mtl
+
+# Generated / cached files
+*_opt.glb
+test_arm_sprite.png
+test_camera.py
+__pycache__/
+*.pyc
+
+# IDE / system
+.claude/
+.vscode/
+*.pptx
+Thumbs.db
